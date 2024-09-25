@@ -1,19 +1,20 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
+    "name":"Hashirr Lukmahn",
+
     "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
-    "image":"profilepic.jpg",
+    "image":"Hashirr-Picture.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
+    "email": "hashirr_7@hotmail.com",
+    "phone": "720-314-4312",
+    "github":"https://github.com/HashirrLukmahn?tab=repositories",
     "project":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"1421 Begonia Way",
+      "city":"Superior",
+      "state":"Colorado",
+      "zip": "80027"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
@@ -30,12 +31,12 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/hashirr-lukmahn/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/hashbrownpls/",
         "className":"fa fa-instagram"
       },
       {
@@ -49,31 +50,44 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
+        "school":"University of Colorado in Boulder",
+        "degree":"Bachelors of Science in Computer Science",
+        "graduated":"August 2022 - December 2024",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
+        "school":"Temasek Polytechnic (Singapore)",
+        "degree":"Diploma in Information Technology",
+        "graduated":"April 2016 - April 2019",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
+        "company":"Research and Innovation Office, University of Colorado Boulder",
+        "title":"AI Developer Intern",
+        "years":"June 2024 - September 2024",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
+        "company":"Partners Group Singapore Private Limited",
+        "title":"Junior Application Specialist",
         "years":"March 2017 - February 2018",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Singapore Police Force",
+        "title:":"Assistant Technical Officer",
+        "years":"October 2019 - October 2021",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"A-Smart Life Private Limited",
+        "title:":"Product Developer Intern",
+        "years":"July 2018 - May 2019",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       }
+
     ],
     "skills":[
       {
@@ -81,24 +95,24 @@
         "level":"60%"
       },
       {
-        "name":"VueJs",
-        "level":"55%"
+        "name":"AngularJS",
+        "level":"60%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
+        "name":"React.js/React Native",
         "level":"90%"
       },
       {
-        "name":"PHP",
+        "name":"CSS",
+        "level":"50%"
+      },
+      {
+        "name":"JavaScript",
         "level":"80%"
       },
       {
-        "name":"Swift",
-        "level":"50%"
+        "name":"Android Studio",
+        "level":"70%"
       },
       {
         "name":"JAVA",

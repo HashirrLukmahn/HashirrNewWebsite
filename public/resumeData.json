@@ -2,14 +2,16 @@
   "main": {
     "name":"Hashirr Lukmahn",
 
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "description":"Hi everyone! Welcome to my website. This project is a resume template that can be used as the project home page or resume page",
     "image":"Hashirr-Picture.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"Hello! I'm Hashirr, an international student from Singapore currently pursuing my studies in Computer Science. I'm passionate about software development and artificial intelligence, and I love experimenting with various AI frameworks like IBM Watson, LLAMA, and others in my free time!",
+    "bio2":"Beyond my academic and technical pursuits, I'm an avid badminton player and enjoy exploring the great outdoors through hiking. Whether I'm analyzing data or hitting the trails, I'm always looking for new ways to challenge myself and grow both personally and professionally.",
+    "bio3":"Welcome to my personal website, where I share my projects, interests, and insights into the exciting world of technology",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "hashirr_7@hotmail.com",
     "phone": "720-314-4312",
     "github":"https://github.com/HashirrLukmahn?tab=repositories",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "project":"https://github.com/HashirrLukmahn/HashirrNewWebsite",
     "address":{
       "street":"1421 Begonia Way",
       "city":"Superior",
@@ -17,18 +19,8 @@
       "zip": "80027"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"https://1drv.ms/b/s!AlZs8ECGSaY1pKhJIXuJ1vzUGZHgNw?e=03dvSB",
     "social":[
-      {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/hashirr-lukmahn/",
@@ -41,7 +33,7 @@
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/HashirrLukmahn?tab=repositories",
         "className":"fa fa-github"
       }
     ]
@@ -50,8 +42,8 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University of Colorado in Boulder",
-        "degree":"Bachelors of Science in Computer Science",
+        "school":"University of Colorado Boulder",
+        "degree":"Bachelors of Science in Computer Science, Minor in Business and Leadership Studies",
         "graduated":"August 2022 - December 2024",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },

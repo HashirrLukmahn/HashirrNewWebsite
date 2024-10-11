@@ -7,7 +7,7 @@
     "bio":"Hello! I'm Hashirr, an international student from Singapore currently pursuing my studies in Computer Science. I'm passionate about software development and artificial intelligence, and I love experimenting with various AI frameworks like IBM Watson, LLAMA, and others in my free time!",
     "bio2":"Beyond my academic and technical pursuits, I'm an avid badminton player and enjoy exploring the great outdoors through hiking. Whether I'm analyzing data or hitting the trails, I'm always looking for new ways to challenge myself and grow both personally and professionally.",
     "bio3":"Welcome to my personal website, where I share my projects, interests, and insights into the exciting world of technology",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage":"Feel free to use the form below to get in touch with me, or you could reach out through LinkedIn or Email as well!",
     "email": "hashirr_7@hotmail.com",
     "phone": "720-314-4312",
     "github":"https://github.com/HashirrLukmahn?tab=repositories",
@@ -39,17 +39,19 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
         "school":"University of Colorado Boulder",
-        "degree":"Bachelors of Science in Computer Science, Minor in Business and Leadership Studies",
+        "major":"Bachelors of Science in Computer Science",
+        "minor":" Minor in Business and Leadership Studies",
         "graduated":"August 2022 - December 2024",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {
         "school":"Temasek Polytechnic (Singapore)",
-        "degree":"Diploma in Information Technology",
+        "major":"Diploma in Information Technology",
+        "minor":"",
         "graduated":"April 2016 - April 2019",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
@@ -64,18 +66,18 @@
       {
         "company":"Partners Group Singapore Private Limited",
         "title":"Junior Application Specialist",
-        "years":"March 2017 - February 2018",
+        "years":"October 2021 - July 2022",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
       {
         "company":"Singapore Police Force",
-        "title:":"Assistant Technical Officer",
+        "title":"Assistant Technical Officer",
         "years":"October 2019 - October 2021",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
       {
         "company":"A-Smart Life Private Limited",
-        "title:":"Product Developer Intern",
+        "title":"Product Developer Intern",
         "years":"July 2018 - May 2019",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       }

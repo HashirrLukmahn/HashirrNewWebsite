@@ -4,7 +4,7 @@
 # Description
 This project forks from [https://github.com/tbakerx/react-resume-template](https://github.com/tbakerx/react-resume-template), I made some modifications and adjustments, thanks to the [author](https://github.com/tbakerx).
 
-This website uses uses React.js, TypeScript and Next.js and Google's Firebase to Include. 
+This website uses uses React.js, TypeScript and Next.js and Google's Firebase.
 
 
 # Run Project

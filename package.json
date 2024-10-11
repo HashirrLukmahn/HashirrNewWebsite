@@ -43,6 +43,7 @@
     ]
   },
   "devDependencies": {
+    "ajv": "^7.2.4",
     "chokidar": "^3.5.1"
   }
 }

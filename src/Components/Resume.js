@@ -11,39 +11,59 @@ class Resume extends Component {
     return color;
   }
 
+  // Render highlights properly (supports nested arrays)
+  renderHighlights(highlights) {
+    if (!Array.isArray(highlights)) return <p>No highlights available.</p>;
+  
+    return highlights.map((item, index) => {
+      if (Array.isArray(item)) {
+        return (
+          <ul key={index} className="nested-list">
+            {item.map((subItem, subIndex) => (
+              <li key={subIndex} className="nested-item">
+                {subItem}
+              </li>
+            ))}
+          </ul>
+        );
+      } else {
+        return <li key={index} className="item">{item}</li>;
+      }
+    });
+  }
   render() {
     if (!this.props.data) return null;
 
     const skillmessage = this.props.data.skillmessage;
-    const education = this.props.data.education.map(function (education) {
-      return (
-        <div key={education.school}>
-          <h3>{education.school}</h3>
-          <p className="info">
-           {education.major}
-           <br></br>
-           {education.minor}
-           <br></br>
-           <em className="date">{education.graduated}</em>
-          </p>
-          <p>{education.description}</p>
-        </div>
-      );
-    });
 
-    const work = this.props.data.work.map(function (work) {
-      return (
-        <div key={work.company}>
-          <h3>{work.company}</h3>
-          <p className="info">
-            {work.title}
-            <br></br>
+    const education = this.props.data.education.map((education) => (
+      <div key={education.school}>
+        <h3>{education.school}</h3>
+        <p className="info">
+          {education.major}
+          <br />
+          {education.minor}
+          <br />
+          <em className="date">{education.graduated}</em>
+        </p>
+        <p>{education.description}</p>
+        <ul className="highlights-list">
+          {this.renderHighlights(education.highlights)}
+        </ul>
+      </div>
+    ));
+
+    const work = this.props.data.work.map((work) => (
+      <div key={work.company}>
+        <h3>{work.company}</h3>
+        <p className="info">
+          {work.title}
+          <br />
           <em className="date">{work.years}</em>
-          </p>
-          <p>{work.description}</p>
-        </div>
-      );
-    });
+        </p>
+        <p>{work.description}</p>
+      </div>
+    ));
 
     const skills = this.props.data.skills.map((skills) => {
       const backgroundColor = this.getRandomColor();

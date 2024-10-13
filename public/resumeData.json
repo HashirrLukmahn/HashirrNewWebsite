@@ -5,8 +5,8 @@
     "description":"Hi everyone! Welcome to my website. This project is a resume template that can be used as the project home page or resume page",
     "image":"Hashirr-Picture.jpg",
     "bio":"Hello! I'm Hashirr, an international student from Singapore currently pursuing my studies in Computer Science. I'm passionate about software development and artificial intelligence, and I love experimenting with various AI frameworks like IBM Watson, LLAMA, and others in my free time!",
-    "bio2":"Beyond my academic and technical pursuits, I'm an avid badminton player and enjoy exploring the great outdoors through hiking. Whether I'm analyzing data or hitting the trails, I'm always looking for new ways to challenge myself and grow both personally and professionally.",
-    "bio3":"Welcome to my personal website, where I share my projects, interests, and insights into the exciting world of technology",
+    "bio2":"Beyond my academic and technical pursuits, I'm an avid badminton player and enjoy exploring the great outdoors through hiking. Whether I'm working on new coding projects or exploring new hobbies, I'm always looking for new ways to challenge myself and grow both personally and professionally.",
+    "bio3":"Welcome to my personal website, where I share my projects, interests, and insights into the exciting world of technology!",
     "contactmessage":"Feel free to use the form below to get in touch with me, or you could reach out through LinkedIn or Email as well!",
     "email": "hashirr_7@hotmail.com",
     "phone": "720-314-4312",
@@ -46,14 +46,31 @@
         "major":"Bachelors of Science in Computer Science",
         "minor":" Minor in Business and Leadership Studies",
         "graduated":"August 2022 - December 2024",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":" My academic journey at CU Boulder has been a blend of Computer Science, Business, and Leadership studies, providing me with a well-rounded skill set for the tech industry. In Computer Science, I progressed from foundational courses like Principles of Programming Languages (CSCI 3155) and Computer Systems (CSCI 2400) to advanced topics. A highlight was excelling in Algorithms (CSCI 3104) after an initial challenge, demonstrating my growth and determination. My capstone Software Engineering Project (CSCI 4308/4318) allowed me to apply my skills to real-world problems, exploring computer vision with Tensorflow.js and app development using React Native.",
+        "highlights":"TBC",
+        "achievements":""
       },
       {
-        "school":"Temasek Polytechnic (Singapore)",
-        "major":"Diploma in Information Technology",
-        "minor":"",
-        "graduated":"April 2016 - April 2019",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Temasek Polytechnic (Singapore)",
+        "major": "Diploma in Information Technology",
+        "graduated": "April 2016 - April 2019",
+        "description": "From 2016 to 2019, I pursued a Diploma in Information Technology at Temasek Polytechnic, laying a strong foundation for my later studies in Computer Science at CU Boulder.",
+        "highlights":[
+          "Graduated with a cumulative GPA of 3.25, demonstrating consistent academic performance.",
+          "Completed a comprehensive IT curriculum, including courses in:",
+          [
+            "~ Computer Architecture",
+            "~ Data Structures and Algorithms",
+            "~ Object-Oriented Programming",
+            "~ Database Information Systems",
+            "~ Software Engineering",
+            "~ Enterprise Web Development"
+          ],
+
+          "Excelled in my final year, achieving a perfect 4.0 GPA in my last semester.",
+          "Successfully completed a Major Project and Student Internship Programme, both graded 'A'."
+        ],
+        "achievements":""
       }
     ],
     "work":[

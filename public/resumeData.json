@@ -2,7 +2,7 @@
   "main": {
     "name":"Hashirr Lukmahn",
 
-    "description":"Hi everyone! Welcome to my website. This project is a resume template that can be used as the project home page or resume page",
+    "description":"Hi everyone! Welcome to my website. Feel free to browse around to learn more about my education, work experience, projects and more!",
     "image":"Hashirr-Picture.jpg",
     "bio":"Hello! I'm Hashirr, an international student from Singapore currently pursuing my studies in Computer Science. I'm passionate about software development and artificial intelligence, and I love experimenting with various AI frameworks like IBM Watson, LLAMA, and others in my free time!",
     "bio2":"Beyond my academic and technical pursuits, I'm an avid badminton player and enjoy exploring the great outdoors through hiking. Whether I'm working on new coding projects or exploring new hobbies, I'm always looking for new ways to challenge myself and grow both personally and professionally.",
@@ -19,7 +19,7 @@
       "zip": "80027"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"https://1drv.ms/b/s!AlZs8ECGSaY1pKhJIXuJ1vzUGZHgNw?e=03dvSB",
+    "resumedownload":"https://1drv.ms/b/s!AlZs8ECGSaY1r5dAAkJInxC6WBt07Q?e=vmVhSI",
     "social":[
       {
         "name":"linkedin",
@@ -65,10 +65,7 @@
             "~ Database Information Systems",
             "~ Software Engineering",
             "~ Enterprise Web Development"
-          ],
-
-          "Excelled in my final year, achieving a perfect 4.0 GPA in my last semester.",
-          "Successfully completed a Major Project and Student Internship Programme, both graded 'A'."
+          ]
         ],
         "achievements":""
       }
@@ -78,25 +75,50 @@
         "company":"Research and Innovation Office, University of Colorado Boulder",
         "title":"AI Developer Intern",
         "years":"June 2024 - September 2024",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":[
+          [
+        "~ Designed and implemented a RAG-based chatbot using IBM Watson APIs and Python, enabling automated information delivery for grant opportunities and research funding.",
+        "~ Developed comprehensive data visualizations in Tableau to analyze research grant distribution patterns and optimize funding allocation decisions across academic departments.",
+        "~ Streamlined grant award data processing and analysis workflow by implementing data cleaning protocols, enhancing accuracy of funding trend analysis and reporting."
+        ]  
+                      ]
       },
       {
         "company":"Partners Group Singapore Private Limited",
         "title":"Junior Application Specialist",
         "years":"October 2021 - July 2022",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":[
+          [
+            "~ Developed SQL automation scripts for auditing processes, reducing manual audit time by hundreds of man-hours and improving operational efficiency.",
+            "~ Leveraged ServiceNow and QlikView to create performance analytics dashboards, providing management with actionable insights for team optimization and ticket resolution metrics.",
+            "~ Provided technical support for financial applications, ensuring smooth operation of business-critical software systems."
+        ]  
+                      ]
       },
       {
         "company":"Singapore Police Force",
         "title":"Assistant Technical Officer",
         "years":"October 2019 - October 2021",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":[
+          [
+        "~ Provided technical support and troubleshooting for the implementation and maintenance of police systems. ",
+        "~ Ensured functionality of technical equipment such as surveillance cameras and radio communication devices.",
+        "~ Coordinated with various police units to identify technical needs, developing tailored solutions that improved field operations and data management. "
+          ]  
+                      ]
       },
       {
         "company":"A-Smart Life Private Limited",
         "title":"Product Developer Intern",
         "years":"July 2018 - May 2019",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":[
+          [
+        "~ Engineered conversational AI chatbots using Dialogflow CX, Google Cloud Platform, and Firebase, enabling community center members to seamlessly access information about events, courses, and facilities. ",
+        "~ Implemented voice-enabled capabilities through Google Home integration, facilitating interactive product demonstrations and enhancing client requirement gathering processes.",
+        "~ Developed comprehensive documentation including product specifications, user stories, and test cases to maintain clear communication channels across development teams.",
+        "~ Conducted user interaction analysis to identify improvement opportunities, resulting in optimized chatbot performance and enhanced user experience."
+        ]  
+                      ]
       }
 
     ],
@@ -134,8 +156,8 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"NYAGI CADUS Ultrasound Computer Vision Project",
+        "category":"My CU Boulder Senior Capstone Project ",
         "image":"01.jpg",
         "url":"https://www.canadianwanderlust.com"
       },
@@ -156,54 +178,6 @@
         "category":"A React based resume website template",
         "image":"04.jpg",
         "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
       }
     ]
   }

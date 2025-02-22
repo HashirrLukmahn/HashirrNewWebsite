@@ -1,7 +1,9 @@
 import React, { Component } from "react";
 import Slide from "react-reveal";
 
+
 class Resume extends Component {
+  
   getRandomColor() {
     let letters = "0123456789ABCDEF";
     let color = "#";
@@ -10,8 +12,9 @@ class Resume extends Component {
     }
     return color;
   }
+  
 
-  // Render highlights properly (supports nested arrays)
+  // Render highlights properly (supports nested arrays, not really lmao)
   renderHighlights(highlights) {
     if (!Array.isArray(highlights)) return <p>No highlights available.</p>;
   
@@ -31,6 +34,7 @@ class Resume extends Component {
       }
     });
   }
+  
   render() {
     if (!this.props.data) return null;
 
@@ -50,6 +54,7 @@ class Resume extends Component {
         <ul className="highlights-list">
           {this.renderHighlights(education.highlights)}
         </ul>
+        <p>{education.achievements}</p>
       </div>
     ));
 
@@ -61,12 +66,14 @@ class Resume extends Component {
           <br />
           <em className="date">{work.years}</em>
         </p>
-        <p>{work.description}</p>
+        <ul className="description-list">
+          {this.renderHighlights(work.description)}
+        </ul>
       </div>
     ));
 
     const skills = this.props.data.skills.map((skills) => {
-      const backgroundColor = this.getRandomColor();
+      const backgroundColor = "#3498db";
       const className = "bar-expand " + skills.name.toLowerCase();
       const width = skills.level;
 

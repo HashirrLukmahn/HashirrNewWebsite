@@ -48,7 +48,10 @@
         "graduated":"August 2022 - December 2024",
         "description":" My academic journey at CU Boulder has been a blend of Computer Science, Business, and Leadership studies, providing me with a well-rounded skill set for the tech industry. In Computer Science, I progressed from foundational courses like Principles of Programming Languages (CSCI 3155) and Computer Systems (CSCI 2400) to advanced topics. A highlight was excelling in Algorithms (CSCI 3104) after an initial challenge, demonstrating my growth and determination. My capstone Software Engineering Project (CSCI 4308/4318) allowed me to apply my skills to real-world problems, exploring computer vision with Tensorflow.js and app development using React Native.",
         "highlights":"TBC",
-        "achievements":""
+        "achievements":[
+          "~ CU Boulder New Venture Challenge Winner (2024): Led a team to victory in the prestigious New Venture Challenge, a highly competitive entrepreneurship competition against 100 teams. Successfully developed and pitched an innovative business plan, demonstrating strong leadership, strategic thinking, and persuasive communication skills.",
+          "~ CU Boulder Community Impact Award (2024): Honoring students who demonstrate exceptional dedication to community improvement through voluntary service, leadership, and inclusive initiatives. Award recognizes those who create lasting positive change through founding organizations, implementing service projects, and fostering inclusive environments."
+        ]
       },
       {
         "school": "Temasek Polytechnic (Singapore)",

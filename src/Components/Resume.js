@@ -54,7 +54,9 @@ class Resume extends Component {
         <ul className="highlights-list">
           {this.renderHighlights(education.highlights)}
         </ul>
-        <p>{education.achievements}</p>
+        <ul className="highlights-list">
+          {this.renderHighlights(education.achievements)}
+        </ul>
       </div>
     ));
 

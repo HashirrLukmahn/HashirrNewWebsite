@@ -16,7 +16,7 @@ class Resume extends Component {
 
   // Render highlights properly (supports nested arrays, not really lmao)
   renderHighlights(highlights) {
-    if (!Array.isArray(highlights)) return <p>No highlights available.</p>;
+    if (!Array.isArray(highlights)) return <p></p>;
   
     return highlights.map((item, index) => {
       if (Array.isArray(item)) {
@@ -54,9 +54,14 @@ class Resume extends Component {
         <ul className="highlights-list">
           {this.renderHighlights(education.highlights)}
         </ul>
-        <ul className="highlights-list">
-          {this.renderHighlights(education.achievements)}
-        </ul>
+        {education.achievements && education.achievements.length > 0 && (
+          <>
+            <h5>Achievements</h5>
+            <ul className="highlights-list">
+              {this.renderHighlights(education.achievements)}
+            </ul>
+          </>
+        )}
       </div>
     ));
 

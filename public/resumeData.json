@@ -2,7 +2,7 @@
   "main": {
     "name":"Hashirr Lukmahn",
 
-    "description":"Hi everyone! Welcome to my website. Feel free to browse around to learn more about my education, work experience, projects and more!",
+    "description":"Hi everyone! Welcome to my website. Feel free to scroll down and browse around to learn more about my education, work experience, projects and more!",
     "image":"Hashirr-Picture.jpg",
     "bio":"Hello! I'm Hashirr, an international student from Singapore currently pursuing my studies in Computer Science. I'm passionate about software development and artificial intelligence, and I love experimenting with various AI frameworks like IBM Watson, LLAMA, and others in my free time!",
     "bio2":"Beyond my academic and technical pursuits, I'm an avid badminton player and enjoy exploring the great outdoors through hiking. Whether I'm working on new coding projects or exploring new hobbies, I'm always looking for new ways to challenge myself and grow both personally and professionally.",
@@ -57,20 +57,10 @@
         "school": "Temasek Polytechnic (Singapore)",
         "major": "Diploma in Information Technology",
         "graduated": "April 2016 - April 2019",
-        "description": "From 2016 to 2019, I pursued a Diploma in Information Technology at Temasek Polytechnic, laying a strong foundation for my later studies in Computer Science at CU Boulder.",
-        "highlights":[
-          "Graduated with a cumulative GPA of 3.25, demonstrating consistent academic performance.",
-          "Completed a comprehensive IT curriculum, including courses in:",
-          [
-            "~ Computer Architecture",
-            "~ Data Structures and Algorithms",
-            "~ Object-Oriented Programming",
-            "~ Database Information Systems",
-            "~ Software Engineering",
-            "~ Enterprise Web Development"
-          ]
-        ],
-        "achievements":""
+        "description": ["From 2016 to 2019, I pursued a Diploma in Information Technology at Temasek Polytechnic, laying a strong foundation for my later studies in Computer Science at CU Boulder. I graduated with a cumulative GPA of 3.25, demonstrating consistent academic performance. During this time, I completed a comprehensive IT curriculum that included courses in Computer Architecture, Data Structures and Algorithms, Object-Oriented Programming, Database Information Systems, Software Engineering, and Enterprise Web Development."
+      ],
+        "achievements":["~ iPrep Scholarship Recipient: The iPrep Scholarship is a programme run by the Infocomm Media Development Authority of Singapore (IMDA) that selectively chooses candidates that perform exceptionally in their st udies to prepare and equip pre-graduates with relevantskillsets and work experience to ensure a pipeline of industry-ready graduates to meet industry manpower needs.",
+      "~ Edusave Academic Achievement: This award is awarded to students who have demonstrated academic excellence through the course of their program through high performance in class or relevant projects to their major."]
       }
     ],
     "work":[
@@ -127,23 +117,15 @@
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
-      },
-      {
-        "name":"AngularJS",
-        "level":"60%"
-      },
-      {
         "name":"React.js/React Native",
         "level":"90%"
       },
       {
-        "name":"CSS",
-        "level":"50%"
+        "name":"JavaScript",
+        "level":"80%"
       },
       {
-        "name":"JavaScript",
+        "name":"Java",
         "level":"80%"
       },
       {
@@ -151,36 +133,49 @@
         "level":"70%"
       },
       {
-        "name":"JAVA",
-        "level":"80%"
+        "name":"R",
+        "level":"70%"
+      },
+      {
+        "name":"C#",
+        "level":"70%"
+      },
+      {
+        "name":"Python",
+        "level":"70%"
+      },
+      {
+        "name":"AngularJS",
+        "level":"60%"
+      },
+      {
+        "name":"CSS",
+        "level":"50%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"NYAGI CADUS Ultrasound Computer Vision Project",
-        "category":"My CU Boulder Senior Capstone Project ",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title": "Global Literacy Statistical Analysis",
+        "description": "A detailed description of your first project. Explain what the project does, your role, challenges you faced, and the solutions you implemented.",
+        "image": "project1.jpg",
+        "technologies": "R , JupyterLab, LaTex",
+        "url": "https://www.example.com/project1"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title": "NYAGI CADUS Ultrasound Interpreter Application",
+        "description": "Describe your second project here. Include enough details to give visitors a good understanding of the project scope and your contributions.",
+        "image": "project2.jpg",
+        "technologies": "React, Redux, Firebase",
+        "url": "https://www.example.com/project2"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title": "Womanexus Mobile Application",
+        "description": "Third project description goes here. What problem did it solve? What was unique about your approach?",
+        "image": "project3.jpg",
+        "technologies": "JavaScript, HTML5, CSS3",
+        "url": "https://www.example.com/project3"
       }
     ]
   }

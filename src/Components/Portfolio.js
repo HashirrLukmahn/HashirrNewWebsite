@@ -21,10 +21,10 @@ class Portfolio extends Component {
               <h3>{projects.title}</h3>
               <p className="project-description">{projects.description}</p>
               {projects.technologies && (
-                <div className="project-tech">
+                <ul className="project-tech">
                   <span className="tech-label">Technologies: </span>
                   {projects.technologies}
-                </div>
+                </ul>
               )}
               {projects.url && (
                 <div className="project-link">
@@ -52,9 +52,9 @@ class Portfolio extends Component {
               {
             <Fade bottom duration={2000}>
               <ul className="social">
-                <a href={project} className="button btn project-btn">
+                {/*<a href={project} className="button btn project-btn">
                   <i className="fa fa-book"></i>Project
-                </a>
+               </a>*/}
                 <a href={github} className="button btn github-btn">
                   <i className="fa fa-github"></i>Github
                 </a>

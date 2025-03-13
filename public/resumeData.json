@@ -158,17 +158,25 @@
     "projects": [
       {
         "title": "Global Literacy Statistical Analysis",
-        "description": "A detailed description of your first project. Explain what the project does, your role, challenges you faced, and the solutions you implemented.",
+        "description": "Conducted statistical analysis on the impact of socioeconomic factors on literacy rates across 217 countries using World Bank data. Identified GDP as the strongest predictor (β=10.69, p=0.027), while creating comprehensive visualizations to highlight regional disparities. Successfully addressed challenges with missing data (84% missing literacy observations) and developed statistical models explaining 22.1% of variance in global literacy rates, providing evidence-based insights for educational policy considerations.",
         "image": "project1.jpg",
-        "technologies": "R , JupyterLab, LaTex",
-        "url": "https://www.example.com/project1"
+        "technologies":  [[
+          "Statistical Analysis: R, Multiple Regression Modeling, Correlation Analysis",
+          "Data Manipulation: dplyr, tidyr, data.table",
+          "Data Visualization: ggplot2, corrplot, RColorBrewer",
+          "Statistical Packages: stats, lmtest, car"
+        ]],
+        "url": "https://github.com/HashirrLukmahn/WorldLiteracyStatAnalysis"
       },
       {
         "title": "NYAGI CADUS Ultrasound Interpreter Application",
-        "description": "Describe your second project here. Include enough details to give visitors a good understanding of the project scope and your contributions.",
+        "description": "Developed a cross-platform mobile application using React Native and Expo that leverages computer vision to assist healthcare workers in remote regions with ultrasound image interpretation. The application employs machine learning through YOLO NANOv8 and TensorFlow.js to identify anatomical structures in shoulder ultrasounds with at least 85% accuracy, enabling nurses in underserved areas like Nepal and Somaliland to better interpret critical medical imaging.",
         "image": "project2.jpg",
-        "technologies": "React, Redux, Firebase",
-        "url": "https://www.example.com/project2"
+        "technologies": [[
+          "Mobile Application: React Native, Expo, TensorFlow.js, React Native TensorFlow.js",
+          "CV Model Development: Python 3.9, YOLO NANOv8, Docker, Conda, ONNX, TFLite"
+        ]],
+        "url": "mailto:hashirr_7@hotmail.com?subject=NYAGI CADUS Ultrasound Interpreter Demo Request"
       },
       {
         "title": "Womanexus Mobile Application",

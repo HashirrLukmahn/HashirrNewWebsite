@@ -180,11 +180,11 @@
       },
       {
         "title": "Womanexus Mobile Application",
-        "description": "Third project description goes here. What problem did it solve? What was unique about your approach?",
+        "description": "Developed a cross-platform mobile application that addresses the networking gap for female-identifying students at CU Boulder by creating a safe, interest-based community platform. The app features geolocation services for finding nearby peers, sophisticated matching algorithms based on academic and personal interests, and integrated event management functionality to foster meaningful connections both online and in-person. This innovative solution promotes inclusivity and professional development within the university community.",
         "image": "project3.jpg",
-        "technologies": "JavaScript, HTML5, CSS3",
-        "url": "https://www.example.com/project3"
-      }
+        "technologies": "React Native, Node.js, Firebase, JavaScript, NoSQL",
+        "url": "https://github.com/IshanGProjects/WomenNexus-Expo-"
+}
     ]
   }
 }

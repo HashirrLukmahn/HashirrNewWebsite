@@ -22,7 +22,7 @@ class Portfolio extends Component {
               <p className="project-description">{projects.description}</p>
               {projects.technologies && (
                 <ul className="project-tech">
-                  <span className="tech-label">Technologies: </span>
+                  <span className="tech-label">Technologies: </span><br/>
                   {projects.technologies}
                 </ul>
               )}

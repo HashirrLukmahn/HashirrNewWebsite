@@ -2,24 +2,24 @@
   "main": {
     "name":"Hashirr Lukmahn",
 
-    "description":"Hi everyone! Welcome to my website. Feel free to scroll down and browse around to learn more about my education, work experience, projects and more!",
+    "description":"Hi everyone! Welcome to my website. Feel free to scroll down and browse around to learn more about my work, projects, and background!",
     "image":"Hashirr-Picture.jpg",
-    "bio":"Hello! I'm Hashirr, an international student from Singapore currently pursuing my studies in Computer Science. I'm passionate about software development and artificial intelligence, and I love experimenting with various AI frameworks like IBM Watson, LLAMA, and others in my free time!",
-    "bio2":"Beyond my academic and technical pursuits, I'm an avid badminton player and enjoy exploring the great outdoors through hiking. Whether I'm working on new coding projects or exploring new hobbies, I'm always looking for new ways to challenge myself and grow both personally and professionally.",
+    "bio":"Hello! I'm Hashirr, a Software Engineer at Scalekit in San Francisco, where I build authentication infrastructure and developer tooling for B2B SaaS and AI-native applications. Originally from Singapore, I graduated from the University of Colorado Boulder with a B.S. in Computer Science. I'm drawn to infrastructure and platform engineering, the kind of problems where good design decisions compound over time, and I love experimenting with AI frameworks and agents in my free time.",
+    "bio2":"Beyond my technical work, I'm an avid badminton player and enjoy exploring the great outdoors through hiking. Whether I'm building new projects or picking up new hobbies, I'm always looking for ways to challenge myself and grow both personally and professionally.",
     "bio3":"Welcome to my personal website, where I share my projects, interests, and insights into the exciting world of technology!",
     "contactmessage":"Feel free to use the form below to get in touch with me, or you could reach out through LinkedIn or Email as well!",
-    "email": "hashirr_7@hotmail.com",
+    "email": "hashirrlukmahn@gmail.com",
     "phone": "720-314-4312",
     "github":"https://github.com/HashirrLukmahn?tab=repositories",
     "project":"https://github.com/HashirrLukmahn/HashirrNewWebsite",
     "address":{
-      "street":"1421 Begonia Way",
-      "city":"Superior",
-      "state":"Colorado",
-      "zip": "80027"
+      "street":" ",
+      "city":"San Francisco",
+      "state":"California",
+      "zip": "94132"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"https://1drv.ms/b/s!AlZs8ECGSaY1r5dAAkJInxC6WBt07Q?e=vmVhSI",
+    "website": "http://www.hashirrlukmahn.com",
+    "resumedownload":"Hashirr-Lukmahn-Resume.pdf",
     "social":[
       {
         "name":"linkedin",
@@ -43,50 +43,97 @@
     "education":[
       {
         "school":"University of Colorado Boulder",
-        "major":"Bachelors of Science in Computer Science",
-        "minor":" Minor in Business and Leadership Studies",
+        "major":"Bachelor of Science in Computer Science",
+        "minor":"Minor in Business and Leadership Studies",
         "graduated":"August 2022 - December 2024",
-        "description":" My academic journey at CU Boulder has been a blend of Computer Science, Business, and Leadership studies, providing me with a well-rounded skill set for the tech industry. In Computer Science, I progressed from foundational courses like Principles of Programming Languages (CSCI 3155) and Computer Systems (CSCI 2400) to advanced topics. A highlight was excelling in Algorithms (CSCI 3104) after an initial challenge, demonstrating my growth and determination. My capstone Software Engineering Project (CSCI 4308/4318) allowed me to apply my skills to real-world problems, exploring computer vision with Tensorflow.js and app development using React Native.",
-        "highlights":"TBC",
+        "description":"My academic journey at CU Boulder blended Computer Science with Business and Leadership studies, giving me a well-rounded foundation for the tech industry. In Computer Science, I progressed from core courses like Principles of Programming Languages (CSCI 3155) and Computer Systems (CSCI 2400) to advanced topics, and I graduated with a 3.51 GPA and Dean's List honors (Fall 2023, Spring 2024, Fall 2024). My capstone Software Engineering Project (CSCI 4308/4318) let me apply these skills to real-world problems, exploring computer vision with TensorFlow.js and mobile development with React Native.",
+        "highlights":[
+          "https://www.colorado.edu/business/business-at-leeds/2024/transforming-waste-into-wisdom",
+          "https://www.colorado.edu/cs/2024/04/18/saving-lives-ultrasound-cs-capstone-students-support-nonprofits-mission",
+          "https://www.dailycamera.com/2024/04/22/students-win-100000-to-reduce-food-waste-in-cu-boulder-challenge/"
+        ],
         "achievements":[
-          "~ CU Boulder New Venture Challenge Winner (2024): Led a team to victory in the prestigious New Venture Challenge, a highly competitive entrepreneurship competition against 100 teams. Successfully developed and pitched an innovative business plan, demonstrating strong leadership, strategic thinking, and persuasive communication skills.",
-          "~ CU Boulder Community Impact Award (2024): Honoring students who demonstrate exceptional dedication to community improvement through voluntary service, leadership, and inclusive initiatives. Award recognizes those who create lasting positive change through founding organizations, implementing service projects, and fostering inclusive environments."
+          "~ CU Boulder New Venture Challenge Winner (2024): Led a team to first place in CU Boulder's premier entrepreneurship competition against 100+ teams, securing $100,000 in funding by developing and pitching an innovative business plan, demonstrating strong leadership, strategic thinking, and persuasive communication.",
+          "~ Vice President & Founder, Engineering Leadership and Literature Association (ELLA), 2024: Founded and led a student organization at the intersection of engineering, leadership, and communication.",
+          "~ CU Boulder Community Impact Award (2024): Recognizing students who demonstrate exceptional dedication to community improvement through voluntary service, leadership, and inclusive initiatives that create lasting positive change."
         ]
       },
       {
         "school": "Temasek Polytechnic (Singapore)",
         "major": "Diploma in Information Technology",
-        "graduated": "April 2016 - April 2019",
-        "description": ["From 2016 to 2019, I pursued a Diploma in Information Technology at Temasek Polytechnic, laying a strong foundation for my later studies in Computer Science at CU Boulder. I graduated with a cumulative GPA of 3.25, demonstrating consistent academic performance. During this time, I completed a comprehensive IT curriculum that included courses in Computer Architecture, Data Structures and Algorithms, Object-Oriented Programming, Database Information Systems, Software Engineering, and Enterprise Web Development."
-      ],
-        "achievements":["~ iPrep Scholarship Recipient: The iPrep Scholarship is a programme run by the Infocomm Media Development Authority of Singapore (IMDA) that selectively chooses candidates that perform exceptionally in their st udies to prepare and equip pre-graduates with relevantskillsets and work experience to ensure a pipeline of industry-ready graduates to meet industry manpower needs.",
-      "~ Edusave Academic Achievement: This award is awarded to students who have demonstrated academic excellence through the course of their program through high performance in class or relevant projects to their major."]
+        "graduated": "April 2016 - May 2019",
+        "description": "From 2016 to 2019, I pursued a Diploma in Information Technology at Temasek Polytechnic, laying a strong foundation for my later studies in Computer Science at CU Boulder. I graduated with a cumulative GPA of 3.25, completing a comprehensive IT curriculum spanning Computer Architecture, Data Structures and Algorithms, Object-Oriented Programming, Database Information Systems, Software Engineering, and Enterprise Web Development.",
+        "achievements":[
+          "~ iPrep Scholarship Recipient: A programme run by the Infocomm Media Development Authority of Singapore (IMDA) that selectively chooses candidates who perform exceptionally in their studies, equipping pre-graduates with relevant skillsets and work experience to build a pipeline of industry-ready graduates.",
+          "~ Edusave Academic Achievement: Awarded to students who demonstrate academic excellence throughout their program through high performance in class and in projects relevant to their major."
+        ]
       }
     ],
     "work":[
+      {
+        "company":"Scalekit",
+        "title":"Software Engineer",
+        "years":"October 2025 - Present",
+        "description":[
+          [
+            "~ Architected and deployed MCP (Model Context Protocol) authentication servers in TypeScript and Python, enabling secure, standardized access patterns for AI agents used by enterprise customers.",
+            "~ Built reference authentication implementations across Go, Spring Boot, Django, Node.js, and React Native, demonstrating production-ready SSO, SCIM provisioning, and OAuth 2.0 flows.",
+            "~ Developed reference architectures and integration patterns that serve as the technical foundation for enterprise B2B authentication deployments.",
+            "~ Enhanced developer documentation and API guides with the Astro/Starlight framework, incorporating customer feedback to reduce integration time and improve adoption.",
+            "~ Delivered technical presentations at Bay Area developer conferences and customer engagements, translating complex authentication concepts for technical audiences."
+          ]
+        ]
+      },
+      {
+        "company":"Talganize Solutions",
+        "title":"Full-Stack Developer",
+        "years":"February 2025 - October 2025",
+        "description":[
+          [
+            "~ Built an end-to-end, AI-powered job matching platform connecting employers with qualified candidates.",
+            "~ Developed user authentication and profile management using OAuth 2.0 and React Native.",
+            "~ Automated a job aggregation pipeline with Python, Scrapy, and Selenium, scraping 200+ roles from major financial institutions and tech companies.",
+            "~ Engineered an AI resume-parsing system using spaCy and NLP to extract candidate skills and match them to relevant opportunities.",
+            "~ Established CI/CD testing infrastructure with Jest and GitHub Actions for reliable production deployments."
+          ]
+        ]
+      },
+      {
+        "company":"FoodWise Solutions Inc.",
+        "title":"Co-Founder & CTO",
+        "years":"April 2024 - April 2025",
+        "description":[
+          [
+            "~ Co-founded FoodWise Solutions and led the technical team in building an ML-powered analytics platform that helped restaurants optimize inventory and forecast sales using weather patterns and local events.",
+            "~ Led the data science team in developing predictive models with ARIMA, SARIMA, and Facebook Prophet, delivering actionable inventory recommendations.",
+            "~ Conducted a comparative analysis of AWS and Microsoft Azure infrastructure costs to determine the optimal stack for scaling the SaaS platform.",
+            "~ Secured $100,000 in seed funding by winning CU Boulder's New Venture Challenge, pitching against 100+ competing teams."
+          ]
+        ]
+      },
       {
         "company":"Research and Innovation Office, University of Colorado Boulder",
         "title":"AI Developer Intern",
         "years":"June 2024 - September 2024",
         "description":[
           [
-        "~ Designed and implemented a RAG-based chatbot using IBM Watson APIs and Python, enabling automated information delivery for grant opportunities and research funding.",
-        "~ Developed comprehensive data visualizations in Tableau to analyze research grant distribution patterns and optimize funding allocation decisions across academic departments.",
-        "~ Streamlined grant award data processing and analysis workflow by implementing data cleaning protocols, enhancing accuracy of funding trend analysis and reporting."
-        ]  
-                      ]
+            "~ Designed and implemented a RAG-based chatbot using IBM Watson APIs and Python, automating information delivery for grant opportunities and research funding.",
+            "~ Developed data visualizations in Tableau to analyze research grant distribution patterns and support funding allocation decisions across academic departments.",
+            "~ Streamlined grant award data processing by implementing data cleaning protocols, improving the accuracy of funding trend analysis and reporting."
+          ]
+        ]
       },
       {
-        "company":"Partners Group Singapore Private Limited",
+        "company":"Partners Group (Singapore) Private Limited",
         "title":"Junior Application Specialist",
         "years":"October 2021 - July 2022",
         "description":[
           [
             "~ Developed SQL automation scripts for auditing processes, reducing manual audit time by hundreds of man-hours and improving operational efficiency.",
-            "~ Leveraged ServiceNow and QlikView to create performance analytics dashboards, providing management with actionable insights for team optimization and ticket resolution metrics.",
-            "~ Provided technical support for financial applications, ensuring smooth operation of business-critical software systems."
-        ]  
-                      ]
+            "~ Leveraged ServiceNow and QlikView to build performance analytics dashboards, giving management actionable insights for team optimization and ticket-resolution metrics.",
+            "~ Provided technical support for financial applications, ensuring smooth operation of business-critical software systems for one of the world's largest private-markets asset managers."
+          ]
+        ]
       },
       {
         "company":"Singapore Police Force",
@@ -94,11 +141,11 @@
         "years":"October 2019 - October 2021",
         "description":[
           [
-        "~ Provided technical support and troubleshooting for the implementation and maintenance of police systems. ",
-        "~ Ensured functionality of technical equipment such as surveillance cameras and radio communication devices.",
-        "~ Coordinated with various police units to identify technical needs, developing tailored solutions that improved field operations and data management. "
-          ]  
-                      ]
+            "~ Provided technical support and troubleshooting for the implementation and maintenance of police systems.",
+            "~ Ensured functionality of technical equipment such as surveillance cameras and radio communication devices.",
+            "~ Coordinated with police units to identify technical needs, developing tailored solutions that improved field operations and data management."
+          ]
+        ]
       },
       {
         "company":"A-Smart Life Private Limited",
@@ -106,85 +153,83 @@
         "years":"July 2018 - May 2019",
         "description":[
           [
-        "~ Engineered conversational AI chatbots using Dialogflow CX, Google Cloud Platform, and Firebase, enabling community center members to seamlessly access information about events, courses, and facilities. ",
-        "~ Implemented voice-enabled capabilities through Google Home integration, facilitating interactive product demonstrations and enhancing client requirement gathering processes.",
-        "~ Developed comprehensive documentation including product specifications, user stories, and test cases to maintain clear communication channels across development teams.",
-        "~ Conducted user interaction analysis to identify improvement opportunities, resulting in optimized chatbot performance and enhanced user experience."
-        ]  
-                      ]
+            "~ Engineered conversational AI chatbots using Dialogflow CX, Google Cloud Platform, and Firebase, enabling community center members to access information about events, courses, and facilities.",
+            "~ Implemented voice-enabled capabilities through Google Home integration, powering interactive product demonstrations and requirement-gathering.",
+            "~ Authored product specifications, user stories, and test cases to maintain clear communication across development teams.",
+            "~ Conducted user interaction analysis to identify improvements, optimizing chatbot performance and user experience."
+          ]
+        ]
       }
-
     ],
     "skills":[
       {
-        "name":"React.js/React Native",
+        "name":"TypeScript",
+        "level":"90%"
+      },
+      {
+        "name":"Python",
         "level":"90%"
       },
       {
         "name":"JavaScript",
+        "level":"85%"
+      },
+      {
+        "name":"React.js / React Native",
+        "level":"85%"
+      },
+      {
+        "name":"Node.js",
+        "level":"85%"
+      },
+      {
+        "name":"Go",
+        "level":"70%"
+      },
+      {
+        "name":"SQL",
         "level":"80%"
       },
       {
         "name":"Java",
-        "level":"80%"
+        "level":"65%"
       },
       {
-        "name":"Android Studio",
+        "name":"Tableau",
         "level":"70%"
-      },
-      {
-        "name":"R",
-        "level":"70%"
-      },
-      {
-        "name":"C#",
-        "level":"70%"
-      },
-      {
-        "name":"Python",
-        "level":"70%"
-      },
-      {
-        "name":"AngularJS",
-        "level":"60%"
-      },
-      {
-        "name":"CSS",
-        "level":"50%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title": "Global Literacy Statistical Analysis",
-        "description": "Conducted statistical analysis on the impact of socioeconomic factors on literacy rates across 217 countries using World Bank data. Identified GDP as the strongest predictor (β=10.69, p=0.027), while creating comprehensive visualizations to highlight regional disparities. Successfully addressed challenges with missing data (84% missing literacy observations) and developed statistical models explaining 22.1% of variance in global literacy rates, providing evidence-based insights for educational policy considerations.",
+        "title": "Autonomous Social Media Agent",
+        "description": "An unsupervised AI agent that grows a Bluesky account by autonomously creating and posting software-engineering memes. Running 24/7 on Railway, it abstracts trending themes from reference accounts and tech news, generates memes, runs a four-layer safety review, and posts during peak engagement windows, with an engagement-scoring feedback loop and circuit breakers that keep it resilient across multiple external APIs.",
         "image": "project1.jpg",
-        "technologies":  [[
-          "Statistical Analysis: R, Multiple Regression Modeling, Correlation Analysis",
-          "Data Manipulation: dplyr, tidyr, data.table",
-          "Data Visualization: ggplot2, corrplot, RColorBrewer",
-          "Statistical Packages: stats, lmtest, car"
-        ]],
-        "url": "https://github.com/HashirrLukmahn/WorldLiteracyStatAnalysis"
+        "technologies": "TypeScript, Claude Sonnet 4.6 & Haiku 4.5, Drizzle ORM, PostgreSQL, Redis, Apify, Mem0, Railway",
+        "url": "https://github.com/HashirrLukmahn/social-media-agent"
       },
       {
-        "title": "NYAGI CADUS Ultrasound Interpreter Application",
-        "description": "Developed a cross-platform mobile application using React Native and Expo that leverages computer vision to assist healthcare workers in remote regions with ultrasound image interpretation. The application employs machine learning through YOLO NANOv8 and TensorFlow.js to identify anatomical structures in shoulder ultrasounds with at least 85% accuracy, enabling nurses in underserved areas like Nepal and Somaliland to better interpret critical medical imaging.",
+        "title": "CoffeeDesk CRM MCP Server",
+        "description": "A Model Context Protocol server that securely bridges AI assistants like Claude Desktop with a CRM's API. It exposes CRUD tools for projects, tasks, workspace members, and activities, secured with OAuth 2.0 and scope-based access control via Scalekit, with multi-tenant, organization-level data isolation and dynamic client registration. Built during my time at Scalekit.",
         "image": "project2.jpg",
-        "technologies": [[
-          "Mobile Application: React Native, Expo, TensorFlow.js, React Native TensorFlow.js",
-          "CV Model Development: Python 3.9, YOLO NANOv8, Docker, Conda, ONNX, TFLite"
-        ]],
-        "url": "mailto:hashirr_7@hotmail.com?subject=NYAGI CADUS Ultrasound Interpreter Demo Request"
+        "technologies": "TypeScript, Node.js, Express.js, OAuth 2.0, Scalekit, Model Context Protocol",
+        "url": "https://github.com/scalekit-inc/coffee-desk-mcp/tree/MercadoLibreDemo"
       },
       {
-        "title": "Womanexus Mobile Application",
-        "description": "Developed a cross-platform mobile application that addresses the networking gap for female-identifying students at CU Boulder by creating a safe, interest-based community platform. The app features geolocation services for finding nearby peers, sophisticated matching algorithms based on academic and personal interests, and integrated event management functionality to foster meaningful connections both online and in-person. This innovative solution promotes inclusivity and professional development within the university community.",
+        "title": "Coffee Desk: B2B SaaS Demo",
+        "description": "A full-stack, multi-tenant B2B application template showcasing production-ready project and task management on top of Scalekit's authentication platform. Features automatic per-organization data isolation, role-based access control, SSO (SAML/OIDC) and social/passwordless auth, a real-time metrics dashboard, and organization-scoped REST APIs. Built during my time at Scalekit.",
         "image": "project3.jpg",
-        "technologies": "React Native, Node.js, Firebase, JavaScript, NoSQL",
-        "url": "https://github.com/IshanGProjects/WomenNexus-Expo-"
-}
+        "technologies": "Go (Gin, GORM), React, TypeScript, Vite, PostgreSQL, Docker, GCP Cloud Run, Scalekit",
+        "url": "https://github.com/scalekit-inc/coffee-desk-demo"
+      },
+      {
+        "title": "Meetstream Gmail MCP Server",
+        "description": "A Model Context Protocol server that lets AI agents and clients like Claude Desktop securely access Gmail through OAuth 2.0 and Scalekit's Agent Actions framework. It provides eight Gmail tools (reading emails, managing threads, fetching contacts, and downloading attachments) using two-layer authentication so tools can be called without exposing direct API credentials. Built during my time at Scalekit.",
+        "image": "project4.jpg",
+        "technologies": "TypeScript, Node.js, Express.js, OAuth 2.0, Scalekit Agent Actions, Model Context Protocol, Docker",
+        "url": "https://github.com/HashirrLukmahn/meetstream_mcp_demo"
+      }
     ]
   }
 }

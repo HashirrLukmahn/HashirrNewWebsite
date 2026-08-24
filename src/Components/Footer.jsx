@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Fade from "react-reveal";
+import Fade from "react-reveal/Fade";
 
 class Footer extends Component {
   render() {

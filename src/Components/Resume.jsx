@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Slide from "react-reveal";
+import Slide from "react-reveal/Slide";
 
 
 class Resume extends Component {
@@ -52,7 +52,7 @@ class Resume extends Component {
         </p>
         <p>{education.description}</p>
         <ul className="highlights-list">
-          {this.renderHighlights(education.highlights)}
+          { this.renderHighlights(education.highlights)}
         </ul>
         {education.achievements && education.achievements.length > 0 && (
           <>

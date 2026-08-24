@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Fade from "react-reveal";
+import Fade from "react-reveal/Fade";
 
 class About extends Component {
   render() {
@@ -51,7 +51,12 @@ class About extends Component {
                 </div>
                 <div className="columns download">
                   <p>
-                    <a href={resumeDownload} className="button">
+                    <a
+                      href={resumeDownload}
+                      className="button"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
                       <i className="fa fa-download"></i>Download Resume
                     </a>
                   </p>

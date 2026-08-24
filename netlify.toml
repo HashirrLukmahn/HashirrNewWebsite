@@ -1,0 +1,8 @@
+[build]
+  # Vite build (outputs to "build" per vite.config.mjs -> build.outDir)
+  command = "npm run build"
+  publish = "build"
+
+[build.environment]
+  # Vite 8 requires Node >= 20.19; use Node 22 LTS on Netlify.
+  NODE_VERSION = "22"
